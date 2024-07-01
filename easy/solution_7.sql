@@ -8,8 +8,9 @@ WITH cte_purchased_customer AS (
     GROUP BY customer_id
 )
 SELECT
-        c.customer_id,
-        c.first_name,
-        c.last_name
+    c.customer_id,
+    c.first_name,
+    c.last_name
 FROM public.customer c
-INNER JOIN cte_purchased_customer s ON c.customer_id = s.customer_id;
+INNER JOIN cte_purchased_customer s
+    ON c.customer_id = s.customer_id;
