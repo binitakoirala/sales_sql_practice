@@ -10,10 +10,15 @@
 | 4    | Display the names of products with a mrp greater than $50.                              | [Solution 4](/easy/solution_4.sql)   |
 | 5    | Retrieve all sales made in 2024.                                                        | [Solution 5](/easy/solution_5.sql)   |
 | 6    | Show employee names and their hire dates.                                               | [Solution 6](/easy/solution_6.sql)   |
-| 7    | List customers who have made a purchase.                                                | [Solution 7]                         |
+| 7    | List customers who have made a purchase.                                                | [Solution 7](/easy/solution_7.sql)   |
 | 8    | Display the product name and price of the most expensive product.                       | [Solution 8](/easy/solution_8.sql)   |
 | 9    | Show the number of products in each category.                                           | [Solution 9](/easy/solution_9.sql)   |
 | 10   | Find the total number of hours worked by each employee.                                 | [Solution 10](/easy/solution_10.sql) |
 | 11   | List the names of employees who joined before 2023.                                     | [Solution 11](/easy/solution_11.sql) |
 | 12   | Display the names of all customers who have made purchases in the 'Skin Care' category. | [Solution 12](/easy/solution_12.sql) |
 | 13   | Show the names and prices of products that cost between $20 and $100.                   | [Solution 13](/easy/solution_13.sql) |
+| 14   | List employees who have worked more than 40 hours in a week.                            | [Solution 14](/easy/solution_14.sql) |
+| 15   | Retrieve the names of customers and the dates they made their first purchase.           | [Solution 15](/easy/solution_15.sql) |
+| 16   | Find the total sales amount for each product.                                           | [Solution_16.sql](/easy/solution_16.sql)                    |
+| 17   | Show the average price of all products in the 'Skin Care' category.                     | [Solution 17](/easy/solution_17.sql) |
+
