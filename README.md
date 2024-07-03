@@ -19,6 +19,7 @@
 | 13   | Show the names and prices of products that cost between $20 and $100.                   | [Solution 13](/easy/solution_13.sql) |
 | 14   | List employees who have worked more than 40 hours in a week.                            | [Solution 14](/easy/solution_14.sql) |
 | 15   | Retrieve the names of customers and the dates they made their first purchase.           | [Solution 15](/easy/solution_15.sql) |
-| 16   | Find the total sales amount for each product.                                           | [Solution_16.sql](/easy/solution_16.sql)                    |
+| 16   | Find the total sales amount for each product.                                           | [Solution 16](/easy/solution_16.sql) |
 | 17   | Show the average price of all products in the 'Skin Care' category.                     | [Solution 17](/easy/solution_17.sql) |
-
+| 18   | List all sales transactions made by a specific employee.                                | [Solution 18](/easy/solution_18.sql) |
+| 19   | Display the total amount of sales for each customer.                                    | [Solution 19](/easy/solution_19.sql) |
